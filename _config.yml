@@ -23,6 +23,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hatsat32
 github_username:  hatsat32
 
+permalink: :path
+
 # Build settings
 markdown: kramdown
 #theme: jekyll-dash
@@ -30,6 +32,8 @@ remote_theme: bitbrain/jekyll-dash
 plugins:
   - jekyll-feed
   - jekyll/tagging
+  - jekyll-paginate
+  - "liquid-md5"
 
 
 # jekyll-paginate

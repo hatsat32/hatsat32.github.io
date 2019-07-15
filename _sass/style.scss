@@ -1,8 +1,0 @@
-@import "{{ site.theme }}";
-
-
-$content-width: 900;
-
-.wrapper {
-    max-width: calc(1000px - (30px * 2));
-}

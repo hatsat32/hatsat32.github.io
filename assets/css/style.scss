@@ -1,7 +1,13 @@
-@charset "UTF-8";
-@import "{{ site.theme }}";
+---
+---
+
+@import "dash";
 
 
 .wrapper {
-    max-width: calc(1000px - (30px * 2));
+    max-width: calc(900px - (30px * 2));
+}
+
+.highlight {
+    font-weight: 500;
 }

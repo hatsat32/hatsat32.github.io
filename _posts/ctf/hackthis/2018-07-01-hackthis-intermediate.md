@@ -40,7 +40,7 @@ Post metodu ile veri göndermek için form oluşturabiliriz. Form tagleri arası
 
 Bu kodu sayfanın html kodları arasına korsak ve şifreyi yazıp butona tıklarsak işlem tamam.
 
-![hackthis-intermediate-3](/assets/writeups/hackthis/resimler/hackthis-intermediate-2.jpg)
+![hackthis-intermediate-3](/assets/ctf/hackthis/resimler/hackthis-intermediate-2.jpg)
 
 İsterseniz POST metodu ile ilgili internette araştırma yaparak daha ayrıntılı bilgi bulabilirsiniz.
 
@@ -52,7 +52,7 @@ Bizim bu soruda cookie değerini true olarak değiştirmemiz gerekiyor. Bunun i�
 
 `restricted_login` cookie sinin değerini değiştirdikten sonra resme tıklayarak seviyeyi geçebilirsiniz.
 
-![hackthis-intermediate-3](/assets/writeups/hackthis/resimler/hackthis-intermediate-3.jpg)
+![hackthis-intermediate-3](/assets/ctf/hackthis/resimler/hackthis-intermediate-3.jpg)
 
 ## Level 4
 
